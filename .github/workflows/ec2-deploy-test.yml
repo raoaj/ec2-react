@@ -1,4 +1,4 @@
-name: Deploy React Website to EC2
+name: Deploy React Website to EC2 one more
 on: workflow_dispatch
 
 jobs:
